@@ -1,5 +1,5 @@
 # zet
-Zettelkasten Repo. This is where I put my notes as it happens, all my zettels about almost anything and everything. The idea is rather simple really and very powerful. It's the resource of my Anki flashcards.
+Zettelkasten Repo. This is where I put my keep track of my notes, all my zettels about almost anything and everything. The idea is rather simple really and very powerful. It's the resource of my Anki flashcards.
 This readme.md is a zet itself
 
 Title less than 50 UNICODE characters
