@@ -8,7 +8,15 @@ Zettelkasten Repo. This is where I put my keep track of my notes, all my zettels
 * Hashtags on last line after 4-space indent
 * Use an Isosec identifier because human friendly
 * Stick with single level lists
+* Avoid subheadings (those are more for posts)
 * *bold*, **ilalic**, ***bolditalic***
+```go
+package main
+import "fmt"
+func main(){
+fmt.println("Hello, World!")
+}
+```
 
 https://luhmann.surge.sh/
 
