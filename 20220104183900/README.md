@@ -1,4 +1,4 @@
-# bash commands
+# linux bash (shell) commands
 
 ls, -a, -la
 shutdown -h now
