@@ -5,7 +5,7 @@
 `mv`
 inode : information node, the directory structure is a rooted node tree data structure
 
-`apt` : advanced packaging tool
+`apt` : advanced packaging tool /n
 `sudo apt update` : update all the sources for packages
 `sudo apt upgrade` : upgrade all packages to the latest
 `ls - la` : list of files in the current directory, lir -ia is long listing, a is everything
