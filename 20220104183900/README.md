@@ -22,5 +22,7 @@
 * `cd - ` : change to previous dir
 * `htop` - best version of top, the terminal task manager
 
+If we type cd followed by nothing, cd will change the working directory to our home directory.
+
 
     #bash
