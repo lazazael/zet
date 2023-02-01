@@ -6,4 +6,6 @@
 }
 `
 
+`systemctl restart docker`
+
     #docker daemon.json
